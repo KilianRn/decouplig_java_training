@@ -31,11 +31,11 @@ public class Simulation {
         result = player.askNextGuess();
 
         if(numberToGuess.equals(result)){
-            logger.log("le nombre est le bon : " + numberToGuess);
+            logger.log("le nombre est le bon, vous avez gagné bravo ! : " + numberToGuess);
             return true;
         }
         else if(numberToGuess < result){
-            logger.log("le nombre saisi est supérieur");
+            //logger.log("le nombre saisi est supérieur");
             //logger.log(" result : " + String.valueOf(result) + " nb a trouver " +  String.valueOf(numberToGuess));
             player.respond(false);
             return false;
@@ -51,7 +51,7 @@ public class Simulation {
         //TODO implement me
         long i=0;
         while(nextRound() != true && i <= iteration){
-            logger.log("iter : " + String.valueOf(i));
+            //logger.log("iter : " + String.valueOf(i));
             i++;
         }
         System.out.println("iteration : " + i);
