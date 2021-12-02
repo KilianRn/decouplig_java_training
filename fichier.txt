@@ -252,3 +252,130 @@ iter : 61
 le nombre saisi est supérieur
 iter : 62
 le nombre est le bon : 60
+2021-12-02 14:21:37.978 simulation le nombre saisi est inférieur
+2021-12-02 14:21:38.025 simulation iter : 0
+2021-12-02 14:21:38.025 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.041 simulation iter : 1
+2021-12-02 14:21:38.041 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.041 simulation iter : 2
+2021-12-02 14:21:38.041 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.057 simulation iter : 3
+2021-12-02 14:21:38.057 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.057 simulation iter : 4
+2021-12-02 14:21:38.057 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.072 simulation iter : 5
+2021-12-02 14:21:38.072 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.072 simulation iter : 6
+2021-12-02 14:21:38.072 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.088 simulation iter : 7
+2021-12-02 14:21:38.088 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.088 simulation iter : 8
+2021-12-02 14:21:38.088 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.103 simulation iter : 9
+2021-12-02 14:21:38.103 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.103 simulation iter : 10
+2021-12-02 14:21:38.119 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.119 simulation iter : 11
+2021-12-02 14:21:38.119 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.119 simulation iter : 12
+2021-12-02 14:21:38.135 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.135 simulation iter : 13
+2021-12-02 14:21:38.135 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.135 simulation iter : 14
+2021-12-02 14:21:38.150 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.150 simulation iter : 15
+2021-12-02 14:21:38.150 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.166 simulation iter : 16
+2021-12-02 14:21:38.166 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.166 simulation iter : 17
+2021-12-02 14:21:38.166 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.182 simulation iter : 18
+2021-12-02 14:21:38.182 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.182 simulation iter : 19
+2021-12-02 14:21:38.198 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.198 simulation iter : 20
+2021-12-02 14:21:38.198 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.213 simulation iter : 21
+2021-12-02 14:21:38.213 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.213 simulation iter : 22
+2021-12-02 14:21:38.229 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.229 simulation iter : 23
+2021-12-02 14:21:38.244 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.244 simulation iter : 24
+2021-12-02 14:21:38.244 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.260 simulation iter : 25
+2021-12-02 14:21:38.268 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.268 simulation iter : 26
+2021-12-02 14:21:38.276 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.284 simulation iter : 27
+2021-12-02 14:21:38.284 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.293 simulation iter : 28
+2021-12-02 14:21:38.293 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.293 simulation iter : 29
+2021-12-02 14:21:38.293 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.308 simulation iter : 30
+2021-12-02 14:21:38.308 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.308 simulation iter : 31
+2021-12-02 14:21:38.324 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.324 simulation iter : 32
+2021-12-02 14:21:38.324 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.339 simulation iter : 33
+2021-12-02 14:21:38.339 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.339 simulation iter : 34
+2021-12-02 14:21:38.339 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.355 simulation iter : 35
+2021-12-02 14:21:38.355 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.355 simulation iter : 36
+2021-12-02 14:21:38.371 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.371 simulation iter : 37
+2021-12-02 14:21:38.371 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.371 simulation iter : 38
+2021-12-02 14:21:38.386 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.386 simulation iter : 39
+2021-12-02 14:21:38.386 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.402 simulation iter : 40
+2021-12-02 14:21:38.402 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.402 simulation iter : 41
+2021-12-02 14:21:38.402 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.418 simulation iter : 42
+2021-12-02 14:21:38.418 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.418 simulation iter : 43
+2021-12-02 14:21:38.433 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.433 simulation iter : 44
+2021-12-02 14:21:38.433 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.433 simulation iter : 45
+2021-12-02 14:21:38.449 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.449 simulation iter : 46
+2021-12-02 14:21:38.449 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.464 simulation iter : 47
+2021-12-02 14:21:38.464 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.464 simulation iter : 48
+2021-12-02 14:21:38.464 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.480 simulation iter : 49
+2021-12-02 14:21:38.480 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.480 simulation iter : 50
+2021-12-02 14:21:38.496 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.496 simulation iter : 51
+2021-12-02 14:21:38.496 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.496 simulation iter : 52
+2021-12-02 14:21:38.511 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.511 simulation iter : 53
+2021-12-02 14:21:38.511 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.527 simulation iter : 54
+2021-12-02 14:21:38.527 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.527 simulation iter : 55
+2021-12-02 14:21:38.543 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.543 simulation iter : 56
+2021-12-02 14:21:38.543 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.558 simulation iter : 57
+2021-12-02 14:21:38.558 simulation le nombre saisi est inférieur
+2021-12-02 14:21:38.558 simulation iter : 58
+2021-12-02 14:21:38.558 simulation le nombre saisi est inférieur
+2021-12-02 14:21:38.574 simulation iter : 59
+2021-12-02 14:21:38.574 simulation le nombre saisi est inférieur
+2021-12-02 14:21:38.574 simulation iter : 60
+2021-12-02 14:21:38.589 simulation le nombre saisi est inférieur
+2021-12-02 14:21:38.589 simulation iter : 61
+2021-12-02 14:21:38.589 simulation le nombre saisi est supérieur
+2021-12-02 14:21:38.605 simulation iter : 62
+2021-12-02 14:21:38.605 simulation le nombre est le bon : 60

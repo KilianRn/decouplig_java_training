@@ -18,10 +18,10 @@ public class HumanPlayer implements Player{
     @Override
     public void respond(boolean lowerOrGreater) {
         if(lowerOrGreater==true){
-            System.out.println("le nombre à trouver est plus grand");
+            logger.log("le nombre à trouver est plus grand");
         }
         else{
-            System.out.println("le nombre à trouver est plus petit");
+            logger.log("le nombre à trouver est plus petit");
         }
     }
 
