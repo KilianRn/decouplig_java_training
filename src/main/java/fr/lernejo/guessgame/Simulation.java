@@ -41,7 +41,7 @@ public class Simulation {
             return false;
         }
         else {
-            logger.log("le nombre saisi est inférieur");
+            //logger.log("le nombre saisi est inférieur");
             player.respond(true);
             return false;
         }

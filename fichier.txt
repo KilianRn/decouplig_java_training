@@ -379,3 +379,4 @@ le nombre est le bon : 60
 2021-12-02 14:21:38.589 simulation le nombre saisi est supérieur
 2021-12-02 14:21:38.605 simulation iter : 62
 2021-12-02 14:21:38.605 simulation le nombre est le bon : 60
+2021-12-02 14:34:01.732 simulation le nombre est le bon, vous avez gagné bravo ! : 60
