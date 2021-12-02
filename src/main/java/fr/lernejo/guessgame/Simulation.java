@@ -8,15 +8,17 @@ public class Simulation {
     private final Logger logger = LoggerFactory.getLogger("simulation");
     private final Player player;  //TODO add variable type
     private Long numberToGuess; //TODO add variable typ
+    private Long iteration;
 
     public Simulation(Player player) {
         //TODO implement me
         this.player = player;
     }
 
-    public void initialize(long numberToGuess) {
+    public void initialize(long numberToGuess, long iteration) {
         //TODO implement me
         this.numberToGuess = numberToGuess;
+        this.iteration = iteration;
     }
 
     /**
@@ -26,15 +28,15 @@ public class Simulation {
         //TODO implement me
 
         long result;
-        System.out.println("entrez un nombre :");
         result = player.askNextGuess();
 
         if(numberToGuess.equals(result)){
-            logger.log("le nombre est le bon");
+            logger.log("le nombre est le bon : " + numberToGuess);
             return true;
         }
         else if(numberToGuess < result){
             logger.log("le nombre saisi est supérieur");
+            //logger.log(" result : " + String.valueOf(result) + " nb a trouver " +  String.valueOf(numberToGuess));
             player.respond(false);
             return false;
         }
@@ -47,8 +49,11 @@ public class Simulation {
 
     public void loopUntilPlayerSucceed() {
         //TODO implement me
-        while(nextRound() != true){
-
+        long i=0;
+        while(nextRound() != true && i <= iteration){
+            logger.log("iter : " + String.valueOf(i));
+            i++;
         }
+        System.out.println("iteration : " + i);
     }
 }
