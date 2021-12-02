@@ -125,3 +125,130 @@
 2021-12-02 11:46:31.496 simulation le nombre saisi est supérieur
 2021-12-02 11:46:31.496 simulation iter : 62
 2021-12-02 11:46:31.496 simulation le nombre est le bon : 60
+le nombre saisi est inférieur
+iter : 0
+le nombre saisi est supérieur
+iter : 1
+le nombre saisi est supérieur
+iter : 2
+le nombre saisi est supérieur
+iter : 3
+le nombre saisi est supérieur
+iter : 4
+le nombre saisi est supérieur
+iter : 5
+le nombre saisi est supérieur
+iter : 6
+le nombre saisi est supérieur
+iter : 7
+le nombre saisi est supérieur
+iter : 8
+le nombre saisi est supérieur
+iter : 9
+le nombre saisi est supérieur
+iter : 10
+le nombre saisi est supérieur
+iter : 11
+le nombre saisi est supérieur
+iter : 12
+le nombre saisi est supérieur
+iter : 13
+le nombre saisi est supérieur
+iter : 14
+le nombre saisi est supérieur
+iter : 15
+le nombre saisi est supérieur
+iter : 16
+le nombre saisi est supérieur
+iter : 17
+le nombre saisi est supérieur
+iter : 18
+le nombre saisi est supérieur
+iter : 19
+le nombre saisi est supérieur
+iter : 20
+le nombre saisi est supérieur
+iter : 21
+le nombre saisi est supérieur
+iter : 22
+le nombre saisi est supérieur
+iter : 23
+le nombre saisi est supérieur
+iter : 24
+le nombre saisi est supérieur
+iter : 25
+le nombre saisi est supérieur
+iter : 26
+le nombre saisi est supérieur
+iter : 27
+le nombre saisi est supérieur
+iter : 28
+le nombre saisi est supérieur
+iter : 29
+le nombre saisi est supérieur
+iter : 30
+le nombre saisi est supérieur
+iter : 31
+le nombre saisi est supérieur
+iter : 32
+le nombre saisi est supérieur
+iter : 33
+le nombre saisi est supérieur
+iter : 34
+le nombre saisi est supérieur
+iter : 35
+le nombre saisi est supérieur
+iter : 36
+le nombre saisi est supérieur
+iter : 37
+le nombre saisi est supérieur
+iter : 38
+le nombre saisi est supérieur
+iter : 39
+le nombre saisi est supérieur
+iter : 40
+le nombre saisi est supérieur
+iter : 41
+le nombre saisi est supérieur
+iter : 42
+le nombre saisi est supérieur
+iter : 43
+le nombre saisi est supérieur
+iter : 44
+le nombre saisi est supérieur
+iter : 45
+le nombre saisi est supérieur
+iter : 46
+le nombre saisi est supérieur
+iter : 47
+le nombre saisi est supérieur
+iter : 48
+le nombre saisi est supérieur
+iter : 49
+le nombre saisi est supérieur
+iter : 50
+le nombre saisi est supérieur
+iter : 51
+le nombre saisi est supérieur
+iter : 52
+le nombre saisi est supérieur
+iter : 53
+le nombre saisi est supérieur
+iter : 54
+le nombre saisi est supérieur
+iter : 55
+le nombre saisi est supérieur
+iter : 56
+le nombre saisi est supérieur
+iter : 57
+le nombre saisi est inférieur
+iter : 58
+le nombre saisi est inférieur
+iter : 59
+le nombre saisi est inférieur
+iter : 60
+le nombre saisi est inférieur
+iter : 61
+le nombre saisi est supérieur
+iter : 62
+le nombre est le bon : 60
